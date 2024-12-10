@@ -1,9 +1,8 @@
 # Second-Task
 ## HTML pages
-
--List
--Form
--Table
+**1-List*
+*2-Form*
+*3-Table*
 
 
 
